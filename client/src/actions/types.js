@@ -1,0 +1,11 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const CREATE_LIST = 'CREATE_LIST';
+export const CREATE_TASK = 'CREATE_TASK';
+export const FETCH_LISTS = 'FETCH_LISTS';
+export const FETCH_TASKS = 'FETCH_TASKS';
+export const DELETE_TASK = 'DELETE_TASK';
+export const DELETE_LIST = 'DELETE_LIST';
+export const CLEAN_TASKS = 'CLEAN_TASKS';
+export const CLEAN_LISTS = 'CLEAN_LISTS';
+export const CHECK_TASK = 'CHECK_TASK';
