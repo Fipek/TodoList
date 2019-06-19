@@ -9,7 +9,7 @@ For Frontend Server:
 
 For Backand Server: 
 
-1)Open api/target directory.
+1) Open api/target directory.
 2) Type "java -jar dwServer.jar server" at the command line.
 
 
